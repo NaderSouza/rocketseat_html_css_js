@@ -13,6 +13,6 @@ O Projeto utiliza:
 
 ## Formulário
 
-![Print Form](/app/img/print.png)
+![Print Form](img/print.png)
 
 
